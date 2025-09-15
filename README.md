@@ -1,3 +1,3 @@
 # practice-for-git-flow
 practice for git flow
-# my name is Julia Izuogu
+# my name is Julia Izuogu.
